@@ -2,7 +2,7 @@ module.exports = {
     sessionName : 'velixsmd',
     prefixs : ['!', '#', '/'],
     owner : [
-        '6285174902345'
+        '6283820186809'
     ],
     apis : {
         velixs : {
